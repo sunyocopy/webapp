@@ -161,7 +161,9 @@ h1 {
 }
 <!--////////////////////////////////////-->
 .container1 {
-        width: 600px;
+        width: 100px;
+        height: 100px;
+        
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
