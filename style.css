@@ -160,6 +160,12 @@ h1 {
   }
 }
 <!--////////////////////////////////////-->
+.container1 {
+        width: 600px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+      }
 .container1 .btn {
         position: relative;
         top: 0;
