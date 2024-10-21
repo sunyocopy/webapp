@@ -163,7 +163,7 @@ h1 {
 .container1 {
         width: 100px;
         height: 100px;
-        
+        flex-direction: column;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
