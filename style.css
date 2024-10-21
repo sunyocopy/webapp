@@ -4,7 +4,7 @@
   flex-direction: column;
   justify-content: center;
   background: black ;
-  gap: 5px;
+  gap: 10px;
 }
 .container {
   height: 90%;
