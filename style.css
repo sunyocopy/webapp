@@ -195,11 +195,11 @@
       }
       
       .image:nth-child(2) {
-        background-image: url(https://www.istockphoto.com/photo/asian-woman-suffering-from-shoulder-pain-standing-isolated-on-pink-background-gm1808880483-549100189?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fth%2Fimages%2Fsearch%2F%25E0%25B8%259E%25E0%25B8%25B7%25E0%25B9%2589%25E0%25B8%2599%25E0%25B8%25AB%25E0%25B8%25A5%25E0%25B8%25B1%25E0%25B8%2587%2F&utm_term=%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87);
+        background-image: url(https://cdn.pixabay.com/photo/2019/06/29/04/02/buffalo-4305380_1280.jpg);
         transform: rotateY(40deg) translateZ(430px);
       }
       .image:nth-child(3) {
-        background-image: url("#");
+        background-image: url(https://cdn.pixabay.com/photo/2019/06/02/18/14/aroma-4247053_1280.jpg);
         transform: rotateY(80deg) translateZ(430px);
       }
       .image:nth-child(4) {
