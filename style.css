@@ -11,12 +11,12 @@
       background-repeat: no-repeat;
       background-size: cover;
     }
-    /* #36474f */
+    /* #36474f, #43a5f6*/
     header {
       position: absolute;
       width: 100%;
       min-height: 66px;
-      background: #43a5f6;
+      background: #36474f;
       padding: 0 100px;
       display: flex;
       justify-content: space-between;
