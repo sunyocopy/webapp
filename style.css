@@ -211,7 +211,7 @@
         transform: rotateY(120deg) translateZ(430px);
       }
         .image:nth-child(5) {
-        background-image: url("#");
+        background-image: url('images/kukiat4.jpg');
         transform: rotateY(160deg) translateZ(430px);
       }
         .image:nth-child(6) {
@@ -298,7 +298,7 @@
         transform: rotateY(120deg) translateZ(430px);
       }
         .image:nth-child(5) {
-        background-image: url("#");
+        background-image: url('images/kukiat4.jpg');
         transform: rotateY(160deg) translateZ(430px);
       }
         .image:nth-child(6) {
