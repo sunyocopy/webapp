@@ -6,8 +6,10 @@
     }
     body {
       min-height: 100vh;
-      background-image:url('images/kukiat1.jpg');
-      
+      background:url(https://cdn.pixabay.com/photo/2019/06/29/04/00/fisherman-4305369_640.jpg);
+      /*background: #98bbf5;*/
+      /*background: #6c68ff;*/
+      /*background: #45adff;*/    
       background-repeat: no-repeat;
       background-size: cover;
     }
