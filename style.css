@@ -147,7 +147,7 @@
      {
        transform: rotate(315deg);
      }
-     /* ----------------------------- 
+     /* ----------------------------- */
      .container {
         position: relative;
         top: 200px;
@@ -236,7 +236,7 @@
         box-shadow: 0 0 20px #04fc43;
         display: none;
       }
-   }*/
+   }
    /* --------------------------------------- */
    .container {
         position: relative;
