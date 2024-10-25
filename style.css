@@ -199,7 +199,7 @@
       }
       
       .image:nth-child(2) {
-        background-image: url(https://cdn.pixabay.com/photo/2019/06/29/04/02/buffalo-4305380_1280.jpg);
+        background-image: url('images/IMG_3525.JPG');
         transform: rotateY(40deg) translateZ(430px);
       }
       .image:nth-child(3) {
@@ -289,7 +289,7 @@
         transform: rotateY(40deg) translateZ(430px);
       }
       .image:nth-child(3) {
-        background-image: url("#");
+        background-image: url('images/IMG_3525.JPG');
         transform: rotateY(80deg) translateZ(430px);
       }
       .image:nth-child(4) {
