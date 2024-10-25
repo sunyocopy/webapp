@@ -70,7 +70,7 @@
      top: 0;
      left: 200px;
    }
-   @media (max-width: 900px) 
+   @media (max-width: 600px) 
    {
      header 
      {
@@ -238,7 +238,7 @@
       }
    }
    /* --------------------------------------- */
-@media (max-width: 600px) {
+@media (max-width: 900px) {
    .container {
         position: relative;
         top: 200px;
