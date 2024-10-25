@@ -193,7 +193,7 @@
         }
       }
       .image:nth-child(1) {
-        background-image: url(https://cdn.pixabay.com/photo/2018/09/19/23/03/sunset-3689760_1280.jpg);
+        background-image: url('https://cdn.pixabay.com/photo/2018/09/19/23/03/sunset-3689760_1280.jpg');
         
         transform: rotateY(0deg) translateZ(430px);
       }
@@ -280,7 +280,7 @@
         }
       }
       .image:nth-child(1) {
-        background-image: url(https://cdn.pixabay.com/photo/2018/09/19/23/03/sunset-3689760_1280.jpg);
+        background-image: url('https://cdn.pixabay.com/photo/2018/09/19/23/03/sunset-3689760_1280.jpg');
         
         transform: rotateY(0deg) translateZ(430px);
       }
