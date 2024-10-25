@@ -6,7 +6,7 @@
     }
     body {
       min-height: 100vh;
-      background:url('images/kukiat1.jpg');
+      background-image:url('images/kukiat1.jpg');
       
       background-repeat: no-repeat;
       background-size: cover;
